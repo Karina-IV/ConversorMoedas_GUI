@@ -16,7 +16,7 @@ import java.text.MessageFormat;
 import java.util.*;
 
 public class ConversorMoedasGUI extends JFrame {
-    private static final String[] MOEDAS = {"ARS", "BOB", "BRL", "CLP", "COP", "USD"};
+    private static final String[] MOEDAS = {"ARS", "BOB", "BRL", "CLP", "COP", "USD", "PYG", "PEN", "UYU", "VES"};
     private static final String API_URL = "https://v6.exchangerate-api.com/v6/12c23be4f9f75d9170e67b9b/latest/";
 
     private ResourceBundle mensagens;
