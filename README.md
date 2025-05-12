@@ -1,4 +1,4 @@
-# 💱 Conversor de Moedas com Interface Gráfica (Java + Swing)
+# 💱 Conversor de Moedas Multilíngue com Interface Gráfica (Java + Swing)
 
 **🇧🇷 Português · 🇺🇸 English · 🇪🇸 Español**
 
