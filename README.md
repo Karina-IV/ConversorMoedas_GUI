@@ -6,15 +6,15 @@
 
 ## 🇧🇷 Sobre o Projeto
 
-Este é um conversor de moedas em **Java** com interface gráfica construída com **Swing**, que obtém taxas de câmbio em tempo real via **ExchangeRate API**. Ele oferece suporte a três idiomas e várias moedas da América Latina.
+Este é um conversor de moedas em **Java** com interface gráfica construída com **Swing**, que obtém taxas de câmbio em tempo real via **ExchangeRate API**. Ele oferece suporte a três idiomas e várias moedas da América do Sul.
 
 ## 🇺🇸 About the Project
 
-This is a **Java** currency converter with a graphical interface using **Swing**, which retrieves real-time exchange rates from the **ExchangeRate API**. It supports three languages and several Latin American currencies.
+This is a **Java** currency converter with a graphical interface using **Swing**, which retrieves real-time exchange rates from the **ExchangeRate API**. It supports three languages and several South American currencies.
 
 ## 🇪🇸 Sobre el Proyecto
 
-Este es un convertidor de monedas en **Java** con interfaz gráfica utilizando **Swing**, que obtiene tasas de cambio en tiempo real a través de la **ExchangeRate API**. Soporta tres idiomas y varias monedas latinoamericanas.
+Este es un convertidor de monedas en **Java** con interfaz gráfica utilizando **Swing**, que obtiene tasas de cambio en tiempo real a través de la **ExchangeRate API**. Soporta tres idiomas y varias monedas sudamericanas.
 
 ---
 
@@ -38,13 +38,16 @@ Este es un convertidor de monedas en **Java** con interfaz gráfica utilizando *
 
 ## 💸 Moedas Suportadas | Supported Currencies | Monedas Soportadas
 
-- ARS - Peso argentino  
-- BOB - Boliviano  
+- ARS - Peso Argentino / Argentinian Peso / Peso argentino 
+- BOB - Boliviano / Bolivian / Boliviano  
 - BRL - Real brasileiro / Brazilian Real / Real brasileño  
-- CLP - Peso chileno  
-- COP - Peso colombiano  
-- USD - Dólar americano / US Dollar / Dólar estadounidense  
-
+- CLP - Peso chileno / Chilean peso / Peso chileno 
+- COP - Peso colombiano / Colombian Peso / Peso colombiano
+- USD - Dólar americano / US Dollar / Dólar estadounidense
+- PYG - Guarani paraguaio / Paraguayan Guarani / Guaraní paraguayo
+- PEN - Sol peruano / Peruvian Sol / Sol peruana
+- UYU - Peso uruguaio / Uruguayan peso / Peso uruguayo
+- VES - Bolívar venezuelano / Venezuelan Bolivar / Bolívar venezolano
 ---
 
 ## 🔧 Configuração da API | API Setup | Configuración de la API
@@ -91,7 +94,6 @@ String url = API_URL.replace("SUA_API_KEY", "SUA_CHAVE_REAL") + base;
 ## 👩‍💻 Autora | Author | Autora
 
 **Karina Ivanova Varlamova**  
-🔗 [LinkedIn](https://www.linkedin.com/in/karina-iv-69b26b312/)
 
 ---
 
